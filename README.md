@@ -1,2 +1,2 @@
-# machine-learning-model-for-life-expectancy
+# Machine-learning-model-for-life-expectancy
 Life expectancy models provide solutions to problems like how to decide on retirement age or manage financial issues related to public matter. Thus, this paper aims to analyse the trends in life expectancy in about 72 countries of the world over a span of 16 years. The study gives the plot of attributes such as life expectancy,GDP, infant death,adult mortality etc which would help the countries understand the life expectancy trends over the course of time and suggest areas which should be focused upon in order to efficiently increase the life expectancy of its population.
